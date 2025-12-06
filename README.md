@@ -14,14 +14,12 @@
   
   > *"Code is like humor. When you have to explain it, it’s bad."*
 
-  👋 I'm **Priyanshu Das**, a passionate **Computer Science Engineer** from **West Bengal, India**.   
-  I specialize in building robust **MERN Stack** applications and solving complex problems with **C++** & **DSA**.
+👋 I'm **Priyanshu Das**, a passionate **Computer Science Engineer** from **West Bengal, India**.   
+  I specialize in building robust **MERN Stack** applications  and solving complex problems with **C++** & **DSA**.
   
-  🔭 **I’m currently working on:** AI-Powered Healthcare & Code Analysis Tools  
-  🌱 **I’m currently learning:** System Design & Cloud Architecture (CI/CD)  
-  💬 **Ask me about:** React, Node.js, Python, and Machine Learning  
-  ⚡ **Fun fact:** I can debug code in my sleep (sometimes literally)!
-
+  🔭 **I’m currently working on:** AI-Powered Healthcare & Code Analysis Tools   
+  🌱 **I’m currently learning:** System Design & Cloud Architecture (CI/CD)   
+  💬 **Ask me about:** React, Node.js, Python, and Machine Learning   
   [![](https://visitcount.itsvg.in/api?id=Priyanshu-302&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
@@ -40,16 +38,15 @@
 ---
 
 <div align="center">
-  <h3>🏆 Achievements & Analytics</h3>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-302&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  
-  <br/><br/>
+  <h3>📊 GitHub Analytics</h3>
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-302&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" height="180" alt="Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" height="180" alt="Languages" />
   </div>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-302&theme=radical&hide_border=true&bg_color=0d1117" alt="Streak" />
 
 </div>
 
