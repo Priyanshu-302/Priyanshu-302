@@ -1,97 +1,84 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Priyanshu+Das;Full+Stack+Developer;AI%2FML+Innovator;Problem+Solver" alt="Typing SVG" />
-  
-  <p>
-     <a href="https://linkedin.com/in/priyanshu-das-tech"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-     <a href="https://priyanshu-das.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF69B4?style=for-the-badge&logo=kofi&logoColor=white" /></a>
-     <a href="mailto:dasp98458@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Priyanshu%20Das&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-302&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-  <br>
-</div>
-
----
-
-### ⚡ **The Developer Persona**
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <br>
-      <blockquote>
-        "Committed to translating complex ideas into clean, efficient software solutions."
-      </blockquote>
-      <br>
-      <ul>
-        <li>🔭 <b>Current Focus:</b> AI-Powered Healthcare & Code Analysis Tools</li>
-        <li>🎓 <b>Education:</b> B.Tech CSE (AI & ML) @ Brainware University (CGPA: 8.62)</li>
-        <li>🌱 <b>Learning:</b> Advanced System Design & Cloud Architecture</li>
-        <li>🏆 <b>Distinction:</b> MSME Govt. of India Project Shortlist (Drone Logistics)</li>
-        <li>📍 <b>Base:</b> West Bengal, India</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 **My Tech Arsenal**
-<div align="center">
-  <p><i>Hover over icons to see the technology name</i></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,tensorflow,sklearn,c,cpp,html,css,js,git,github,netlify,postman&perline=8&theme=dark" />
+  <a href="https://linkedin.com/in/priyanshu-das-tech">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://priyanshu-das.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=kofi&logoColor=white" />
+  </a>
+  <a href="mailto:dasp98458@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Priyanshu-302">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
----
-
-### 📊 **Live Analytics**
+<br />
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-302&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-302&theme=tokyonight&hide_border=true&background=0d1117" />
-      </td>
-    </tr>
-  </table>
+  <h3>👨‍💻 About Me</h3>
+</div>
+
+> I am a **B.Tech CSE (AI/ML) Undergraduate** at **Brainware University** with a current CGPA of **8.62**. My passion lies in building scalable intelligent systems that solve real-world problems in healthcare and logistics.
+
+* 🔭 **Currently Working on:** AI-Powered Code Analysis & Healthcare Prediction Models.
+* 🚀 **Highlight:** My project on **Drone Logistics** was shortlisted by the **Ministry of MSME, Govt. of India**.
+* ⚡ **Core Competencies:** Artificial Intelligence, Machine Learning, Full Stack Web Development (MERN).
+* 🌱 **Always Learning:** Advanced System Design, Cloud Architecture, and CI/CD Pipelines.
+
+---
+
+<div align="center">
+  <h3>🛠 Technologies & Tools</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,cpp,c,react,nodejs,express,mongodb,html,css,js,git,github,netlify,postman&perline=8&theme=dark" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <br>
+  <a href="https://github.com/Priyanshu-302">
+    <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-302&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="180" alt="stats graph" />
+  </a>
+  <a href="https://github.com/Priyanshu-302">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-302&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
 </div>
 
 ---
 
-### 🚀 **High-Impact Projects**
+<div align="center">
+  <h3>🚀 Featured Projects</h3>
+</div>
 
-| **Project** | **Stack** | **Impact & Status** |
+| 🏆 Project | 💻 Tech Stack | 📝 Description |
 | :--- | :--- | :--- |
-| **Drone Logistics System** | `AI` `Hardware` | 🏆 **Govt Shortlisted:** Shortlisted by **Ministry of MSME** for innovation support. Solves logistics in coastal/hilly regions. |
-| **Heart Disease AI** | `Python` `Scikit-learn` | ⚡ **92% Accuracy:** Early detection model engineered using patient health metrics. (Samsung Innovation Campus Capstone). |
-| **Code Query Tool** | `MERN` `GenAI` | 🧠 **AI-Powered:** Parses complex codebases to generate natural language explanations for developers. |
-| **Personal Portfolio** | `HTML5` `CI/CD` | 🎨 **Premium UI:** Responsive portfolio with automated CI/CD pipelines via Netlify. |
+| **Drone Logistics System** | `AI` `Hardware` | **MSME Shortlisted:** AI-powered drone delivery system designed for hard-to-reach coastal & hilly regions. |
+| **Heart Disease Prediction** | `Python` `Scikit-learn` | **92% Accuracy:** Machine learning model for early detection of heart risks based on patient metrics. |
+| **AI Code Explainer** | `React` `Node.js` `AI` | **GenAI Tool:** Parses complex codebases and generates simple natural language explanations for developers. |
+| **Personal Portfolio** | `HTML` `CSS` `JS` | **CI/CD Integrated:** Responsive portfolio showcasing skills with automated deployment pipelines via Netlify. |
 
 ---
 
-### 🐍 **Contribution Activity**
 <div align="center">
-  <img src="https://github-readme-contribution-game-snake.vercel.app/api?username=Priyanshu-302&theme=tokyonight&dots=%234D5BCE" />
+  <h3>🐍 Contribution Graph</h3>
+  <img src="https://github-readme-contribution-game-snake.vercel.app/api?username=Priyanshu-302&theme=tokyonight&dots=%234D5BCE" alt="snake animation" />
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <i>"Translating complex ideas into clean, efficient software solutions."</i>
 </div>
