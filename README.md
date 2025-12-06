@@ -39,10 +39,6 @@
 
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" height="180" alt="Languages" />
-  </div>
   
   <br/>
   
