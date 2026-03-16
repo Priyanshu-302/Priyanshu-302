@@ -1,166 +1,36 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0055,50:FF6B00,100:FF0055&height=300&section=header&text=Priyanshu%20Das&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=65&descAlign=50&stroke=FF0055&strokeWidth=2" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:00BFFF,100:0d0d0d&height=280&section=header&text=Priyanshu%20Das&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=MERN%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Problem%20Solver&descSize=22&descAlignY=68&descAlign=50&stroke=00BFFF&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=🚀+Building+AI-Powered+Solutions;⚡+MERN+Stack+%7C+C%2B%2B+%7C+DSA;🤖+Machine+Learning+%7C+GenAI;🏆+MSME+Shortlisted+Developer;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=800&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Priyanshu+Das;MERN+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;C%2B%2B+%26+DSA+Problem+Solver+%F0%9F%A7%A0;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-302&style=for-the-badge&color=FF0055&label=PROFILE+VIEWS)](https://github.com/Priyanshu-302)
-[![GitHub followers](https://img.shields.io/github/followers/Priyanshu-302?style=for-the-badge&color=FF6B00&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Priyanshu-302?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Priyanshu-302?style=for-the-badge&color=FFD700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/Priyanshu-302)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-302&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS)](https://github.com/Priyanshu-302)[![GitHub followers](https://img.shields.io/github/followers/Priyanshu-302?style=for-the-badge&color=00BFFF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Priyanshu-302?tab=followers)[![Open Source](https://img.shields.io/badge/Open%20Source-💙-00BFFF?style=for-the-badge&labelColor=0d1117)](https://github.com/Priyanshu-302)
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hey there! I'm Priyanshu Das
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```js
-const priyanshu = {
-  location    : "West Bengal, India 🇮🇳",
-  role        : "MERN Stack Developer & AI/ML Enthusiast",
-  currentWork : ["AI-Powered Healthcare Tools", "Code Analysis Platform"],
-  learning    : ["System Design", "Cloud Architecture", "CI/CD Pipelines"],
-  askMeAbout  : ["React", "Node.js", "Python", "Machine Learning"],
-  funFact     : "Code is like humor — when you have to explain it, it's bad 😄",
-  available   : true  // open to exciting opportunities!
-};
-```
+## `whoami` 🧬
 
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🔧 Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</div>
-
----
-
-## 🏆 High-Impact Projects
-
-<div align="center">
-
-| 🚀 Project | 💡 Description | 🔧 Stack | 🌟 Highlight |
-|:---:|:---|:---:|:---:|
-| **🚁 Drone Logistics System** | AI-powered drone delivery for coastal & hilly regions | `Python` `IoT` `AI` | 🏅 MSME Shortlisted |
-| **❤️ Heart Disease Prediction** | Early detection ML model with high accuracy | `Python` `Scikit-learn` | 📊 92% Accuracy |
-| **🤖 AI Code Explainer** | GenAI tool explaining complex codebases line-by-line | `MERN` `GenAI` | 🧠 Generative AI |
-| **🌐 Personal Portfolio** | Responsive portfolio with CI/CD integration | `HTML5` `CSS3` `JS` | ⚡ Auto-Deployed |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-302&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0055&icon_color=FF6B00&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-302&theme=radical&hide_border=true&background=0d1117&ring=FF0055&fire=FF6B00&currStreakLabel=FF6B00" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0055&text_color=ffffff&langs_count=8" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-302&bg_color=0d1117&color=FF6B00&line=FF0055&point=ffffff&area=true&area_color=FF005533&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-  </picture>
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```
-🔭 Working On   →  AI-Powered Healthcare & Code Analysis Tools
-🌱 Learning     →  System Design • Cloud Architecture • CI/CD
-💬 Expertise    →  React • Node.js • Python • Machine Learning
-📫 Reach Me     →  dasp98458@gmail.com
-```
-
-</div>
-
-<div align="center">
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-das-tech)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasp98458@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=kofi&logoColor=white)](https://priyanshu-das.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu-302)
-
-</div>
-
-<div align="center">
-
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<div align="center">
-
----
-
-*⭐ Star some repos if you find them useful — it motivates me to build more cool stuff!*
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FF6B00&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
+```bash
+$ cat priyanshu.json
+JSON{
+  "name": "Priyanshu Das",
+  "role": "MERN Stack Developer",
+  "location": "West Bengal, India 🇮🇳",
+  "currently_building": [
+    "AI-Powered Healthcare Tools",
+    "Code Analysis Systems"
+  ],
+  "currently_learning": [
+    "System Design",
+    "Cloud Architecture",
+    "CI/CD Pipelines"
+  ],
+  "ask_me_about": ["React", "Node.js", "Python", "Machine Learning"],
+  "fun_fact": "Code is like humor. When you have to explain it, it's bad."
+}
+<br clear="right"/>🛠️ Tech Arsenal<div align="center">⚡ Frontend🔧 Backend & Database🤖 AI / ML⚙️ Systems & Tools</div>📊 GitHub War Room<div align="center"><img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPriyanshu-302%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00BFFF%26icon_color%3D00BFFF%26text_color%3Dffffff%26ring_color%3D00BFFF" alt="GitHub Stats"/><img width="49%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DPriyanshu-302%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26ring%3D00BFFF%26fire%3D00BFFF%26currStreakLabel%3D00BFFF" alt="GitHub Streak"/><img width="42%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPriyanshu-302%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00BFFF%26text_color%3Dffffff%26layout%3Dcompact%26langs_count%3D8" alt="Top Languages"/></div>🏆 Trophies<div align="center"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DPriyanshu-302%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4%26row%3D1" alt="GitHub Trophies" width="100%"/></div>🚀 High-Impact Projects<div align="center">🔥 Project💡 Description🧰 Stack🏅 Highlight🚁 Drone Logistics SystemAI-powered drone delivery for coastal & hilly regionsPython IoT AI🏆 MSME Shortlisted❤️ Heart Disease PredictionML model for early-stage cardiac risk detectionPython Scikit-learn🎯 92% Accuracy🤖 AI Code ExplainerGenAI tool that explains codebases line-by-lineMERN GenAI⚡ Full-Stack🌐 Personal PortfolioResponsive portfolio with CI/CD automationHTML5 CSS3 JS🔄 Auto Deploy</div>🐍 Contribution Graph<div align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" width="100%"/></div>📈 Activity Graph<div align="center"></div>💬 Random Dev Quote<div align="center"></div>📫 Connect With Me<div align="center"><a href="https://www.google.com/search?q=https://linkedin.com/in/priyanshu-das-tech"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26labelColor%3D0d1117" alt="LinkedIn"/></a>&nbsp;<a href="mailto:dasp98458@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3D0d1117" alt="Email"/></a>&nbsp;<a href="https://www.google.com/search?q=https://priyanshu-das.netlify.app/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-00BFFF%3Fstyle%3Dfor-the-badge%26logo%3Dfirefox%26logoColor%3Dwhite%26labelColor%3D0d1117" alt="Portfolio"/></a>&nbsp;<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/Priyanshu-302"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26labelColor%3D0d1117" alt="GitHub"/></a>Open to exciting opportunities, collabs, and nerdy tech convos! 🤝</div><div align="center"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:0d0d0d,50:00BFFF,100:0d0d0d%26height%3D120%26section%3Dfooter%26text%3DThanks%2520for%2520visiting!%2520⭐&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Footer" width="100%"/>"First, solve the problem. Then, write the code." – John Johnson</div>
