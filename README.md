@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,30:0d0d1a,60:0a0e2a,100:000005&height=300&section=header&text=Priyanshu%20Das&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=FF0055&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=65&descAlign=50&stroke=FF0055&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0055,50:FF6B00,100:FF0055&height=300&section=header&text=Priyanshu%20Das&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=65&descAlign=50&stroke=FF0055&strokeWidth=2" width="100%"/>
 
 </div>
 
@@ -162,5 +162,5 @@ const priyanshu = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000005,50:0a0e2a,100:0d0d1a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FF6B00&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
