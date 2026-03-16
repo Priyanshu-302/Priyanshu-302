@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0055,50:FF6B00,100:FF0055&height=300&section=header&text=Priyanshu%20Das&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=65&descAlign=50&stroke=FF0055&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,30:0d0d1a,60:0a0e2a,100:000005&height=300&section=header&text=Priyanshu%20Das&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=FF0055&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=65&descAlign=50&stroke=FF0055&strokeWidth=3" width="100%"/>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=🚀+Building+AI-Powered+Solutions;⚡+MERN+Stack+%7C+C%2B%2B+%7C+DSA;🤖+Machine+Learning+%7C+GenAI;🏆+MSME+Shortlisted+Developer;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&repeat=true&width=600&height=50&lines=🚀+Building+AI-Powered+Solutions;⚡+MERN+Stack+%7C+C%2B%2B+%7C+DSA;🤖+Machine+Learning+%7C+GenAI;🏆+MSME+Shortlisted+Developer;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -162,5 +162,5 @@ const priyanshu = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FF6B00&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000005,50:0a0e2a,100:0d0d1a&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
