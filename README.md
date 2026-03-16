@@ -15,7 +15,7 @@
 
 ## `whoami` 🧬
 
-```bash
+
 $ cat priyanshu.json
 JSON{
   "name": "Priyanshu Das",
