@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&repeat=true&width=600&height=50&lines=🚀+Building+AI-Powered+Solutions;⚡+MERN+Stack+%7C+C%2B%2B+%7C+DSA;🤖+Machine+Learning+%7C+GenAI;🏆+MSME+Shortlisted+Developer;💡+Turning+Ideas+into+Reality](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&repeat=true&width=600&height=50&lines=🚀+Building+AI-Powered+Solutions;⚡+MERN+Stack+|+C%2B%2B+|+DSA;🤖+Machine+Learning+|+GenAI;🏆+MSME+Shortlisted+Developer;💡+Turning+Ideas+into+Reality)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&repeat=true&width=600&height=50&lines=🚀+Building+AI-Powered+Solutions;⚡+MERN+Stack+%7C+C%2B%2B+%7C+DSA;🤖+Machine+Learning+%7C+GenAI;🏆+MSME+Shortlisted+Developer;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
 <br/>
