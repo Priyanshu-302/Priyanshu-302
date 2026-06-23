@@ -1,116 +1,144 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="github_header_banner.png" alt="Priyanshu Das Banner" width="100%" />
-</p>
+<!-- Custom Sci-Fi HUD Header -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/main/header.svg" width="100%" alt="Priyanshu Das HUD Header" />
+</div>
 
-<!-- Dynamic Typing Animation -->
-<p align="center">
-  <a href="https://github.com/Priyanshu-302">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=450&lines=AI%2FML+Engineer;Full-Stack+Developer;LLM+Integrator;Problem+Solver" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Social Badges & Views -->
+<div align="center">
+  <a href="https://linkedin.com/in/priyanshu-das-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dasp98458@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://priyanshu-das.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=kofi&logoColor=white" alt="Portfolio" /></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu-302&style=flat-square&color=FF0055&label=SYSTEM+ACCESSES" alt="Profile Views" />
+</div>
 
-<!-- Title -->
-<h1 align="center">Hi, I'm Priyanshu Das 👋</h1>
-<p align="center">
-  <strong>Computer Science & Engineering student specializing in AI/ML & Full-Stack Development. I build highly performance-oriented, reliable, and scalable backends combined with intelligent AI/LLM systems.</strong>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/main/divider.svg" width="100%" />
+</div>
 
-<!-- Social Connect Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/priyanshu-das-tech" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://priyanshu-das.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Priyanshu-302" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<!-- About Me Section -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🤖 Executive Summary</h3>
+      <p>Computer Science & Engineering student specializing in <b>AI/ML</b> and <b>Full-Stack Development</b>, with hands-on experience building conversational AI backends.</p>
+      <ul>
+        <li>🎓 <b>Education:</b> B.Tech (AI/ML) @ Brainware University (Aug 2023 – Jul 2027)</li>
+        <li>📈 <b>Academics:</b> Current CGPA <b>8.62 / 10.00</b></li>
+        <li>📍 <b>Location:</b> Chinsurah-Mogra, West Bengal, India</li>
+        <li>⚡ <b>Core Focus:</b> Multi-tenant SaaS architectures, LLM pipelines, and highly reliable schema migrations.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>💻 Current Activity</h3>
+      <p><b>Software Engineering Intern</b> @ <a href="https://github.com/Priyanshu-302"><b>UnifyList</b></a> <i>(Apr 2026 – Present)</i></p>
+      <ul>
+        <li>Built GPT-4o-mini conversational backend for schema generation.</li>
+        <li>Designed real-time SSE streaming compile progress pipelines.</li>
+        <li>Integrated GraphQL (Apollo/Axios) with exponential backoff retries.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/main/divider.svg" width="100%" />
+</div>
 
-## 🚀 About Me
+<!-- Custom Sci-Fi Tech Stack HUD -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/main/skills.svg" width="100%" alt="Tech Arsenal HUD" />
+</div>
 
-*   🎓 **Education**: B.Tech in **Computer Science & Engineering (AI/ML)** at **Brainware University**, Kolkata (Aug 2023 – Jul 2027)
-    *   📊 **Current CGPA**: **8.62 / 10.0**
-*   💼 **Current Role**: Software Engineering Intern at **[UnifyList](https://github.com/Priyanshu-302)** *(Apr 2026 – Present)*
-*   📍 **Location**: Chinsurah-Mogra, West Bengal, India
-*   🧠 **Core Focus**: Delivering end-to-end multi-tenant SaaS backends, LLM-powered query engines, and optimizing systems for real-time responsiveness and reliability.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/main/divider.svg" width="100%" />
+</div>
 
----
+<!-- Projects Section -->
+<h3>🏆 High-Impact Deployments</h3>
 
-## 🛠️ Technical Stack
+<div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Project | Description | Tech Stack | Highlight |
+| :--- | :--- | :---: | :---: |
+| **[🚁 Drone Logistics](https://github.com/Priyanshu-302/drone-logistics-system)** | AI-powered drone delivery routing for challenging terrains. | `Python` `AI` `IoT` | 🏅 MSME Shortlisted |
+| **[🔒 SecureLink Shortener](https://github.com/Priyanshu-302/securelink-url-shortener)** | URL shortener with passcode lock, self-destructing links, and custom bio. | `React.js` `MongoDB` `Express` | 🛡️ Secure Bio Customizer |
+| **[🧠 AI Code Explainer](https://github.com/Priyanshu-302/ai-code-explainer)** | Gemini-powered parsing dashboard for detailed code explanation. | `React.js` `Node.js` `Gemini` | 🤖 Generative AI Engine |
+| **[🚂 Railway Reservation](https://github.com/Priyanshu-302/railway-reservation)** | High-concurrency booking engine with transactional integrity. | `Node.js` `PostgreSQL` `JWT` | ⚡ High Reliability |
 
-### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/RESTful_APIs-0052CC?style=for-the-badge&logo=json&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+</div>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/main/divider.svg" width="100%" />
+</div>
 
-### 🧠 AI & LLM Integrations
-![OpenAI GPT-4o-mini](https://img.shields.io/badge/OpenAI_GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Conversational AI](https://img.shields.io/badge/Conversational_AI-0D9488?style=for-the-badge&logo=deepmind&logoColor=white)
+<!-- Contribution Calendars & Graphs (The requested Daily Blocks) -->
+<h3>📊 Contribution Grid & Daily Blocks</h3>
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🌌 3D Isometric GitBlocks</h4>
+      <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Calendar" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🐍 Contribution Snake</h4>
+      <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+  <h4>📈 Activity Timeline</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-302&bg_color=0d1117&color=FF6B00&line=FF0055&point=ffffff&area=true&area_color=FF005533&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
+</div>
 
-## 💼 Professional Experience
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/main/divider.svg" width="100%" />
+</div>
 
-### **Software Engineering Intern** | [UnifyList](https://github.com/Priyanshu-302) *(Apr 2026 – Present)*
-*   🤖 **Conversational AI Backend**: Designed and built a session-based chat agent backend utilizing **OpenAI GPT-4o-mini** to automate database and application schema generation.
-*   📡 **Real-time SSE Pipeline**: Engineered real-time SSE streaming pipelines to stream live compilation progress directly to users.
-*   🛡️ **Self-Healing Validator**: Built schema validation logic that auto-corrects structural errors on-the-fly, reducing pipeline failures.
-*   🔗 **API & Database Reliability**: Integrated GraphQL (Apollo/Axios) with resilient exponential backoff retry mechanisms to run schema migrations reliably.
+<!-- GitHub Analytics Section -->
+<h3>📈 Analytics Dashboard</h3>
 
----
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-302&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0055&icon_color=FF6B00&text_color=ffffff&count_private=true" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-302&theme=radical&hide_border=true&background=0d1117&ring=FF0055&fire=FF6B00&currStreakLabel=FF6B00" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0055&text_color=ffffff&langs_count=8" width="70%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📂 Featured Projects
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/main/divider.svg" width="100%" />
+</div>
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[AI Code Query & Explainer](https://github.com/Priyanshu-302/ai-code-query-explainer)** | Multi-language code parsing engine powered by Gemini API, complete with syntax highlighting and markdown parsing for fast onboarding. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs) ![Gemini](https://img.shields.io/badge/-Gemini_API-8E75C2?style=flat-square&logo=google-gemini) |
-| **[SecureLink – Bio & URL Customizer](https://github.com/Priyanshu-302/securelink-url-shortener)** | URL shortener featuring self-destruct capabilities, passcode locks, custom branded offline QR codes, and a fully customizable Linktree-like landing page. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) |
-| **[Railway Reservation System](https://github.com/Priyanshu-302/railway-reservation-system)** | High-concurrency seat booking engine ensuring strict transactional integrity, optimized database indexing for real-time lookups, and secure JWT authentication. | ![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens) |
+<!-- Dev Trophies -->
+<div align="center">
+  <h3>🏆 System Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-302&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+</div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/main/divider.svg" width="100%" />
+</div>
 
-## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="85%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-302&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&icon_color=a855f7&text_color=e2e8f0&border_color=334155" alt="Priyanshu's GitHub Stats" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=14b8a6&icon_color=a855f7&text_color=e2e8f0&border_color=334155" alt="Priyanshu's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-302&theme=tokyonight&background=0f172a&ring=14b8a6&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=cbd5e1&dates=94a3b8" alt="Priyanshu's Streak Stats" />
-</p>
-
----
-
-<p align="center">
-  Generated with 💜 by Antigravity AI Coding Assistant. Feel free to tweak as you wish!
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FF6B00&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
