@@ -42,7 +42,7 @@
   
   ## 💼 Professional Experience
   
-  ### **Software Engineering Intern** @ [UnifyList](https://github.com/Priyanshu-302) *(Apr 2026 – Present)*
+  ### **Software Engineering Intern** @ [UnifyList](https://github.com/Priyanshu-302) *(Apr 2026 – Sep 2026)*
   *   🤖 **Conversational AI Backend**: Built session-based Conversational AI using **OpenAI GPT-4o-mini** to automate database schema generation.
   *   📡 **Real-time Progress Streaming**: Designed real-time **SSE streaming pipelines** to report compilation progress live to users.
   *   🛡️ **Self-Healing Validator**: Built intelligent validation layers that auto-correct errors on database migrations.
