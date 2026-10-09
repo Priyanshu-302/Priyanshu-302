@@ -1,12 +1,12 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0055,50:FF6B00,100:FF0055&height=300&section=header&text=Priyanshu%20Das&fontSize=80&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%20Systems%20%26%20RAG%20Architect%20%E2%80%A2%201640%2B%20LeetCode&descSize=18&descAlignY=65&descAlign=50&stroke=FF0055&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:FF0055,50:FF6B00,100:FF0055&amp;height=300&amp;section=header&amp;text=Priyanshu%20Das&amp;fontSize=80&amp;fontAlignY=45&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%20Systems%20%26%20RAG%20Architect%20%E2%80%A2%201640%2B%20LeetCode&amp;descSize=18&amp;descAlignY=65&amp;descAlign=50&amp;stroke=FF0055&amp;strokeWidth=2" width="100%" alt="Header" />
   
 </div>
   
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%F0%9F%9A%80+Architecting+Scalable+AI+%26+RAG+Systems;%E2%9A%A1+High-Performance+Backends+%7C+Node.js+%7C+C%2B%2B;%F0%9F%A4%96+Multi-Agent+Orchestration+%7C+Groq+%26+Qdrant;%F0%9F%8F%86+1640%2B+LeetCode+Rating+%7C+500%2B+Problems;%F0%9F%92%A1+Low-Latency+Streaming+%26+Distributed+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=FF0055&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=50&amp;lines=%F0%9F%9A%80+Architecting+Scalable+AI+%26+RAG+Systems;%E2%9A%A1+High-Performance+Backends+%7C+Node.js+%7C+C%2B%2B;%F0%9F%A4%96+Multi-Agent+Orchestration+%7C+Groq+%26+Qdrant;%F0%9F%8F%86+1640%2B+LeetCode+Rating+%7C+500%2B+Problems;%F0%9F%92%A1+Low-Latency+Streaming+%26+Distributed+APIs" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hey there! I'm Priyanshu Das
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave" /> Hey there! I'm Priyanshu Das
 
 ```js
 const priyanshu = {
@@ -106,12 +106,12 @@ const priyanshu = {
 ## 📊 GitHub & Problem Solving Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-302&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0055&icon_color=FF6B00&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-302&theme=radical&hide_border=true&background=0d1117&ring=FF0055&fire=FF6B00&currStreakLabel=FF6B00" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-302&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF0055&amp;icon_color=FF6B00&amp;text_color=ffffff&amp;count_private=true" alt="Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-302&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;ring=FF0055&amp;fire=FF6B00&amp;currStreakLabel=FF6B00" alt="Streak" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0055&text_color=ffffff&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&amp;layout=donut&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF0055&amp;text_color=ffffff&amp;langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -119,7 +119,7 @@ const priyanshu = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-302&bg_color=0d1117&color=FF6B00&line=FF0055&point=ffffff&area=true&area_color=FF005533&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-302&amp;bg_color=0d1117&amp;color=FF6B00&amp;line=FF0055&amp;point=ffffff&amp;area=true&amp;area_color=FF005533&amp;hide_border=true&amp;radius=8" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -130,7 +130,7 @@ const priyanshu = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+    <img src="https://raw.githubusercontent.com/Priyanshu-302/Priyanshu-302/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   </picture>
 </div>
 
@@ -151,7 +151,7 @@ const priyanshu = {
 
 <div align="center">
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
 </div>
 
@@ -185,5 +185,5 @@ const priyanshu = {
 
 <div align="center">
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FF6B00&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF0055,100:FF6B00&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Footer" />
 </div>
