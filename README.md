@@ -16,7 +16,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-302&style=for-the-badge&color=FF0055&label=PROFILE+VIEWS)](https://github.com/Priyanshu-302)
 [![GitHub followers](https://img.shields.io/github/followers/Priyanshu-302?style=for-the-badge&color=FF6B00&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Priyanshu-302?tab=followers)
-[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1640%2B%20Contest-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/dasp98458)
+[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1690%2B%20Contest-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/dasp98458)
 [![GitHub stars](https://img.shields.io/github/stars/Priyanshu-302?style=for-the-badge&color=FFD700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/Priyanshu-302)
 
 </div>
@@ -32,7 +32,7 @@ const priyanshu = {
   recentRole     : "Software Engineering Intern (Backend) @ UnifyList (Apr 2026 - Sep 2026)",
   location       : "Kolkata, West Bengal, India 🇮🇳",
   coreFocus      : ["Scalable AI Backends", "RAG Systems", "Vector Databases", "Real-Time Streaming"],
-  problemSolving : "1640+ Contest Rating on LeetCode | 500+ Algorithmic Problems Solved",
+  problemSolving : "1690+ Contest Rating on LeetCode | 600+ Algorithmic Problems Solved",
   funFact        : "Code is like humor — when you have to explain it, it's bad 😄"
 };
 ```
