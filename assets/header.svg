@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Priyanshu Das">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF0055"/>
+      <stop offset="0.5" stop-color="#FF6B00"/>
+      <stop offset="1" stop-color="#FF0055"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1200" height="300" rx="0"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <!-- venom-style organic shapes -->
+    <path d="M0 0 H1200 V60 C1080 120 1010 30 880 85 C740 145 690 40 560 90 C420 145 360 40 230 95 C130 135 60 90 0 120 Z" fill="#000" opacity="0.18"/>
+    <path d="M0 300 V215 C110 170 190 250 330 200 C470 150 540 255 690 205 C830 160 920 250 1050 205 C1120 180 1160 200 1200 190 V300 Z" fill="#000" opacity="0.22"/>
+    <path d="M0 300 V250 C140 215 250 280 420 240 C580 205 700 285 880 245 C1010 215 1110 255 1200 235 V300 Z" fill="#fff" opacity="0.08"/>
+    <circle cx="150" cy="120" r="70" fill="#fff" opacity="0.05"/>
+    <circle cx="1060" cy="150" r="95" fill="#fff" opacity="0.05"/>
+    <rect x="1" y="1" width="1198" height="298" fill="none" stroke="#FF0055" stroke-width="2"/>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="1.4s" fill="freeze"/>
+      <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="80" font-weight="800" fill="#ffffff" letter-spacing="1">Priyanshu Das</text>
+      <text x="600" y="210" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="500" fill="#ffffff">Full-Stack &amp; AI Engineer • Systems &amp; RAG Architect • 1765+ LeetCode</text>
+    </g>
+  </g>
+</svg>
