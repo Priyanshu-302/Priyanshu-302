@@ -5,7 +5,7 @@
 </div>
   
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=FF0055&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=50&amp;lines=%F0%9F%9A%80+Architecting+Scalable+AI+%26+RAG+Systems;%E2%9A%A1+High-Performance+Backends+%7C+Node.js+%7C+C%2B%2B;%F0%9F%A4%96+Multi-Agent+Orchestration+%7C+Groq+%26+Qdrant;%F0%9F%8F%86+1765%2B+LeetCode+Rating+%7C+500%2B+Problems;%F0%9F%92%A1+Low-Latency+Streaming+%26+Distributed+APIs" alt="Typing SVG" />
   </a>
 </div>
@@ -17,7 +17,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-302&style=for-the-badge&color=FF0055&label=PROFILE+VIEWS)](https://github.com/Priyanshu-302)
 [![GitHub followers](https://img.shields.io/github/followers/Priyanshu-302?style=for-the-badge&color=FF6B00&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Priyanshu-302?tab=followers)
 [![LeetCode Rating](https://img.shields.io/badge/LeetCode-1765%2B%20Contest-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/dasp98458)
-[![GitHub stars](https://img.shields.io/github/stars/Priyanshu-302?style=for-the-badge&color=FFD700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/Priyanshu-302)
+[![GitHub stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FPriyanshu-302%2FPriyanshu-302%2FHEAD%2Fassets%2Fstars.json&style=for-the-badge&labelColor=0d1117)](https://github.com/Priyanshu-302)
 
 </div>
 
@@ -106,12 +106,12 @@ const priyanshu = {
 ## 📊 GitHub & Problem Solving Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-302&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF0055&amp;icon_color=FF6B00&amp;text_color=ffffff&amp;count_private=true" alt="Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-302&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;ring=FF0055&amp;fire=FF6B00&amp;currStreakLabel=FF6B00" alt="Streak" />
+  <img width="49%" src="assets/stats.svg" alt="Stats" />
+  <img width="49%" src="assets/streak.svg" alt="Streak" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&amp;layout=donut&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF0055&amp;text_color=ffffff&amp;langs_count=8" alt="Top Languages" />
+  <img width="50%" src="assets/top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
@@ -119,7 +119,7 @@ const priyanshu = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-302&amp;bg_color=0d1117&amp;color=FF6B00&amp;line=FF0055&amp;point=ffffff&amp;area=true&amp;area_color=FF005533&amp;hide_border=true&amp;radius=8" width="100%" alt="Contribution Graph" />
+  <img src="assets/activity-graph.svg" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -171,7 +171,7 @@ const priyanshu = {
 <div align="center">
 
 ### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="assets/quote.svg" alt="Quote" />
 
 </div>
 
