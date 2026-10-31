@@ -1,0 +1,78 @@
+name: Refresh README assets
+
+# Place this file at .github/workflows/readme-assets.yml in the
+# Priyanshu-302/Priyanshu-302 repository.
+#
+# It downloads the stats / streak / languages / activity / quote cards
+# (with retries) and commits them to /assets as static SVGs, so your
+# profile never depends on a rate-limited third-party server at view time.
+# It also writes assets/stars.json for the TOTAL STARS badge.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  push:
+    paths:
+      - ".github/workflows/readme-assets.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch cards
+        run: |
+          mkdir -p assets
+          missing=0
+
+          fetch() {
+            name="$1"; url="$2"
+            out="assets/${name}.svg"
+            tmp="$(mktemp)"
+            for i in 1 2 3 4 5 6; do
+              if curl -fsSL --max-time 60 -A "Mozilla/5.0" "$url" -o "$tmp" \
+                 && grep -q "<svg" "$tmp" \
+                 && ! grep -qiE "rate limit|something went wrong|maximum retries|deployment_not_found" "$tmp"; then
+                mv "$tmp" "$out"
+                echo "refreshed ${name}"
+                return 0
+              fi
+              sleep $((i * 10))
+            done
+            echo "::warning::could not refresh ${name}; keeping previous copy if any"
+            [ -f "$out" ] || missing=1
+            return 0
+          }
+
+          fetch stats 'https://github-readme-stats.vercel.app/api?username=Priyanshu-302&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0055&icon_color=FF6B00&text_color=ffffff&count_private=true'
+          fetch streak 'https://streak-stats.demolab.com/?user=Priyanshu-302&theme=radical&hide_border=true&background=0d1117&ring=FF0055&fire=FF6B00&currStreakLabel=FF6B00'
+          fetch top-langs 'https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-302&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0055&text_color=ffffff&langs_count=8'
+          fetch activity-graph 'https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-302&bg_color=0d1117&color=FF6B00&line=FF0055&point=ffffff&area=true&area_color=FF005533&hide_border=true&radius=8'
+          fetch quote 'https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'
+
+          exit $missing
+
+      - name: Total stars badge data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          total=$(gh api "users/Priyanshu-302/repos?per_page=100" --paginate --jq '.[].stargazers_count' | awk '{s+=$1} END {print s+0}')
+          printf '{"schemaVersion":1,"label":"TOTAL STARS","message":"%s","color":"FFD700"}\n' "$total" > assets/stars.json
+          cat assets/stars.json
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "chore: refresh README assets"
+            git push
+          fi
