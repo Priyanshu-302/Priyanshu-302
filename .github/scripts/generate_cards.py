@@ -177,7 +177,12 @@ def card_stats(d):
 
 
 def compute_streaks(days):
-    items = sorted((dt.date.fromisoformat(k), v) for k, v in days.items())
+    today = dt.date.today()
+    # The calendar also contains future days of the current year (always 0).
+    # Keep up to tomorrow so users ahead of UTC (e.g. India) still count today.
+    limit = today + dt.timedelta(days=1)
+    items = sorted((dt.date.fromisoformat(k), v) for k, v in days.items()
+                   if dt.date.fromisoformat(k) <= limit)
     total = sum(v for _, v in items)
     longest, run, run_start = (0, None, None), 0, None
     for date, v in items:
@@ -191,8 +196,9 @@ def compute_streaks(days):
             run = 0
     cur = (0, None, None)
     idx = len(items) - 1
-    if idx >= 0 and items[idx][1] == 0:
-        idx -= 1  # today not counted yet; streak may still be alive
+    # Today (and tomorrow) may still be empty without breaking the streak.
+    while idx >= 0 and items[idx][0] >= today and items[idx][1] == 0:
+        idx -= 1
     end = items[idx][0] if idx >= 0 else None
     n = 0
     while idx >= 0 and items[idx][1] > 0:
