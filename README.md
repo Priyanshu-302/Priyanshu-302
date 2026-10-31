@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:FF0055,50:FF6B00,100:FF0055&amp;height=300&amp;section=header&amp;text=Priyanshu%20Das&amp;fontSize=80&amp;fontAlignY=45&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%20Systems%20%26%20RAG%20Architect%20%E2%80%A2%201640%2B%20LeetCode&amp;descSize=18&amp;descAlignY=65&amp;descAlign=50&amp;stroke=FF0055&amp;strokeWidth=2" width="100%" alt="Header" />
+  <img src="assets/header.svg" width="100%" alt="Header" />
   
 </div>
   
@@ -185,5 +185,5 @@ const priyanshu = {
 
 <div align="center">
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF0055,100:FF6B00&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Footer" />
+<img src="assets/footer.svg" width="100%" alt="Footer" />
 </div>
