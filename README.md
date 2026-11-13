@@ -16,7 +16,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-302&style=for-the-badge&color=FF0055&label=PROFILE+VIEWS)](https://github.com/Priyanshu-302)
 [![GitHub followers](https://img.shields.io/github/followers/Priyanshu-302?style=for-the-badge&color=FF6B00&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Priyanshu-302?tab=followers)
-[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1765%2B%20Contest-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/dasp98458)
+[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1835%2B%20Contest-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/dasp98458)
 [![GitHub stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FPriyanshu-302%2FPriyanshu-302%2FHEAD%2Fassets%2Fstars.json&style=for-the-badge&labelColor=0d1117)](https://github.com/Priyanshu-302)
 
 </div>
