@@ -6,7 +6,7 @@
   
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=FF0055&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=50&amp;lines=%F0%9F%9A%80+Architecting+Scalable+AI+%26+RAG+Systems;%E2%9A%A1+High-Performance+Backends+%7C+Node.js+%7C+C%2B%2B;%F0%9F%A4%96+Multi-Agent+Orchestration+%7C+Groq+%26+Qdrant;%F0%9F%8F%86+1765%2B+LeetCode+Rating+%7C+500%2B+Problems;%F0%9F%92%A1+Low-Latency+Streaming+%26+Distributed+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=FF0055&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=50&amp;lines=%F0%9F%9A%80+Architecting+Scalable+AI+%26+RAG+Systems;%E2%9A%A1+High-Performance+Backends+%7C+Node.js+%7C+C%2B%2B;%F0%9F%A4%96+Multi-Agent+Orchestration+%7C+Groq+%26+Qdrant;%F0%9F%8F%86+1835%2B+LeetCode+Rating+%7C+500%2B+Problems;%F0%9F%92%A1+Low-Latency+Streaming+%26+Distributed+APIs" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@ const priyanshu = {
   recentRole     : "Software Engineering Intern (Backend) @ UnifyList (Apr 2026 - Sep 2026)",
   location       : "Kolkata, West Bengal, India 🇮🇳",
   coreFocus      : ["Scalable AI Backends", "RAG Systems", "Vector Databases", "Real-Time Streaming"],
-  problemSolving : "1765+ Contest Rating on LeetCode | 600+ Algorithmic Problems Solved",
+  problemSolving : "1835+ Contest Rating on LeetCode | 600+ Algorithmic Problems Solved",
   funFact        : "Code is like humor — when you have to explain it, it's bad 😄"
 };
 ```
